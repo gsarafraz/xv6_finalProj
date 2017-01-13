@@ -1,2 +1,2 @@
 # xv6_finalProj
-final os project xv6
+this is my final project for os to change xv6 scheduler
